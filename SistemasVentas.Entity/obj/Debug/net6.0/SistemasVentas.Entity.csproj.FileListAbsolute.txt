@@ -1,0 +1,14 @@
+C:\Users\at289\Desktop\UNI\proyectoDiseño\SlnSistemaVentas\SistemasVentas.Entity\bin\Debug\net6.0\SistemasVentas.Entity.deps.json
+C:\Users\at289\Desktop\UNI\proyectoDiseño\SlnSistemaVentas\SistemasVentas.Entity\bin\Debug\net6.0\SistemasVentas.Entity.runtimeconfig.json
+C:\Users\at289\Desktop\UNI\proyectoDiseño\SlnSistemaVentas\SistemasVentas.Entity\bin\Debug\net6.0\SistemasVentas.Entity.dll
+C:\Users\at289\Desktop\UNI\proyectoDiseño\SlnSistemaVentas\SistemasVentas.Entity\bin\Debug\net6.0\SistemasVentas.Entity.pdb
+C:\Users\at289\Desktop\UNI\proyectoDiseño\SlnSistemaVentas\SistemasVentas.Entity\obj\Debug\net6.0\SistemasVentas.Entity.csproj.AssemblyReference.cache
+C:\Users\at289\Desktop\UNI\proyectoDiseño\SlnSistemaVentas\SistemasVentas.Entity\obj\Debug\net6.0\SistemasVentas.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\at289\Desktop\UNI\proyectoDiseño\SlnSistemaVentas\SistemasVentas.Entity\obj\Debug\net6.0\SistemasVentas.Entity.AssemblyInfoInputs.cache
+C:\Users\at289\Desktop\UNI\proyectoDiseño\SlnSistemaVentas\SistemasVentas.Entity\obj\Debug\net6.0\SistemasVentas.Entity.AssemblyInfo.cs
+C:\Users\at289\Desktop\UNI\proyectoDiseño\SlnSistemaVentas\SistemasVentas.Entity\obj\Debug\net6.0\SistemasVentas.Entity.csproj.CoreCompileInputs.cache
+C:\Users\at289\Desktop\UNI\proyectoDiseño\SlnSistemaVentas\SistemasVentas.Entity\obj\Debug\net6.0\SistemasVentas.Entity.dll
+C:\Users\at289\Desktop\UNI\proyectoDiseño\SlnSistemaVentas\SistemasVentas.Entity\obj\Debug\net6.0\refint\SistemasVentas.Entity.dll
+C:\Users\at289\Desktop\UNI\proyectoDiseño\SlnSistemaVentas\SistemasVentas.Entity\obj\Debug\net6.0\SistemasVentas.Entity.pdb
+C:\Users\at289\Desktop\UNI\proyectoDiseño\SlnSistemaVentas\SistemasVentas.Entity\obj\Debug\net6.0\SistemasVentas.Entity.genruntimeconfig.cache
+C:\Users\at289\Desktop\UNI\proyectoDiseño\SlnSistemaVentas\SistemasVentas.Entity\obj\Debug\net6.0\ref\SistemasVentas.Entity.dll

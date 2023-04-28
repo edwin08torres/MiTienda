@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SistemaVentas.BLL.Interfaces
+{
+   public interface IDashBoardService
+    {
+        Task<int> TotalVentasultimaSemana();
+        Task<string> TotalIngresoUltimaSemana();
+        Task<int> TotalProductos();
+        Task<int> TotalCategorias();
+        Task<Dictionary<string, int>> VentasUltimaSemana();
+        Task<Dictionary<string, int>> ProductosTopUltimaSemana();
+    }
+}

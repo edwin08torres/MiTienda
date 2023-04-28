@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SistemaVentas.AppWeb
+build_property.RootNamespace = SistemaVentas.AppWeb
+build_property.ProjectDir = C:\Users\at289\Desktop\UNI\Diseño Sistemas\Proy\ExamenVenta-main\SistemaVenta.AppWeb\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\at289\Desktop\UNI\Diseño Sistemas\Proy\ExamenVenta-main\SistemaVenta.AppWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Acceso/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Acceso/RestablecerClave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXFJlc3RhYmxlY2VyQ2xhdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/DashBoardController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaEJvYXJkQ29udHJvbGxlcjFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/DashBoard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaEJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Historial_venta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsX3ZlbnRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Home/Perfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJmaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Negocio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmVnb2Npb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/nueva_venta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbnVldmFfdmVudGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Plantilla/EnviarClave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRpbGxhXEVudmlhckNsYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Plantilla/PDFVenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRpbGxhXFBERlZlbnRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Plantilla/RestablecerClave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRpbGxhXFJlc3RhYmxlY2VyQ2xhdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Productos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Reporte/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Shared/Components/menuUsuario/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcbWVudVVzdWFyaW9cRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Shared/Components/Menu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/UsuariosController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NDb250cm9sbGVyMVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Venta/HistorialVenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcSGlzdG9yaWFsVmVudGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Venta/NuevaVenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcTnVldmFWZW50YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/at289/Desktop/UNI/Diseño Sistemas/Proy/ExamenVenta-main/SistemaVenta.AppWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-c0xq8vyewm
