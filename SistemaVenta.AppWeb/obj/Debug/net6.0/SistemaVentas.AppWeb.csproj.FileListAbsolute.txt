@@ -590,3 +590,10 @@ C:\Users\at289\Desktop\UNI\Diseño Sistemas\Proy\ExamenVenta-main\SistemaVenta.A
 C:\Users\at289\Desktop\UNI\Diseño Sistemas\Proy\ExamenVenta-main\SistemaVenta.AppWeb\obj\Debug\net6.0\SistemaVentas.AppWeb.pdb
 C:\Users\at289\Desktop\UNI\Diseño Sistemas\Proy\ExamenVenta-main\SistemaVenta.AppWeb\obj\Debug\net6.0\SistemaVentas.AppWeb.genruntimeconfig.cache
 C:\Users\at289\Desktop\UNI\Diseño Sistemas\Proy\ExamenVenta-main\SistemaVenta.AppWeb\obj\Debug\net6.0\ref\SistemaVentas.AppWeb.dll
+C:\Users\at289\Desktop\UNI\Diseño Sistemas\Proy\ExamenVenta-main\SistemaVenta.AppWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\at289\Desktop\UNI\Diseño Sistemas\Proy\ExamenVenta-main\SistemaVenta.AppWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\at289\Desktop\UNI\Diseño Sistemas\Proy\ExamenVenta-main\SistemaVenta.AppWeb\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\at289\Desktop\UNI\Diseño Sistemas\Proy\ExamenVenta-main\SistemaVenta.AppWeb\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\at289\Desktop\UNI\Diseño Sistemas\Proy\ExamenVenta-main\SistemaVenta.AppWeb\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\at289\Desktop\UNI\Diseño Sistemas\Proy\ExamenVenta-main\SistemaVenta.AppWeb\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\at289\Desktop\UNI\Diseño Sistemas\Proy\ExamenVenta-main\SistemaVenta.AppWeb\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

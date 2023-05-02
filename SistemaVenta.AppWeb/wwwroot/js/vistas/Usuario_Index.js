@@ -99,7 +99,7 @@ $("#btnNuevo").click(function () {
 
 $("#btnGuardar").click(async function () {
 
-    debugger;
+    //debugger;
 
     const inputs = $("input.input-validar").serializeArray();
     const inputs_sin_valor = inputs.filter((item) => item.value.trim() == "")
