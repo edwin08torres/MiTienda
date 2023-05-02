@@ -136,31 +136,6 @@ $("#btnGuardar").click(async function () {
 
     $("#modalData").find("div.modal-content").LoadingOverlay("show");
 
-    //if (modelo.idUsuario == 0) {
-    //    var response = await axios.post("/Usuarios/Crear", formData);
-    //    if (response.data.estado) {
-    //        tablaData.row.add(response.data.objeto).draw(false);
-    //        $("#modalData").modal("hide");
-    //        toastr.success("El usuario fue creado");
-    //    }
-    //    else {
-    //        toastr.error(response.data.mensaje);
-    //    }
-    //}
-    //else {
-    //    var response = await axios.put("/Usuarios/Editar", formData);
-    //    if (response.data.estado) {
-    //        tablaData.row(filaSelecionada).data(response.data.objeto).draw(false);
-    //        filaSelecionada = null;
-    //        $("#modalData").modal("hide");
-    //        toastr.success("El usuario fue modificado");
-    //    }
-    //    else {
-    //        toastr.error(response.data.mensaje);
-    //    }
-    //}
-    //return Ok();
-
     if (modelo.idProducto == 0) {
         fetch("/Productos/Crear", {
             method: "POST",
@@ -174,7 +149,7 @@ $("#btnGuardar").click(async function () {
                 if (responseJson.estado) {
                     tablaData.row.add(responseJson.objeto).draw(false);
                     $("#modalData").modal("hide");
-                    swal("Listo", "El producto fue creado", "success");
+                    swal("Listo", "El producto fue CREADO", "success");
                 } else {
                     swal("Lo sentimos", responseJson.mensaje, "error");
 

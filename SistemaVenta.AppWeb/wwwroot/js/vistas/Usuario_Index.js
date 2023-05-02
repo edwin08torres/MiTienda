@@ -99,7 +99,7 @@ $("#btnNuevo").click(function () {
 
 $("#btnGuardar").click(async function () {
 
-    //debugger;
+    debugger;
 
     const inputs = $("input.input-validar").serializeArray();
     const inputs_sin_valor = inputs.filter((item) => item.value.trim() == "")
@@ -130,19 +130,19 @@ $("#btnGuardar").click(async function () {
 
 
     if (modelo.idUsuario == 0) {
-        fetch("/usuarios/crear", {
+        fetch("/Usuarios/Crear", {
             method: "POST",
             body: formData
         })
             .then(response => {
-                $("#modaldata").find("div.modal-content").LoadingOverlay("hide");
+                $("#modalData").find("div.modal-content").LoadingOverlay("hide");
                 return response.ok ? response.json() : promise.reject(response);
             })
             .then(responsejson => {
                 if (responsejson.estado) {
-                    tablaData.row.add(responsejson.objeto).draw(false);
-                    $("#modaldata").modal("hide");
-                    swal("listo", "el usuario fue creado", "success");
+                    tablaData.row.add(responseJson.objeto).draw(false);
+                    $("#modalData").modal("hide");
+                    swal("listo", "El usuario fue CREADO", "success");
                 } else {
                     swal("lo sentimos", responsejson.mensaje, "error");
 
@@ -159,10 +159,10 @@ $("#btnGuardar").click(async function () {
             })
             .then(responsejson => {
                 if (responsejson.estado) {
-                    tabladata.row(filaselecionada).data(responsejson.objeto).draw(false);
+                    tablaData.row(filaselecionada).data(responsejson.objeto).draw(false);
                     filaselecionada = null;
                     $("#modaldata").modal("hide");
-                    swal("listo", "el usuario fue modificado", "success");
+                    swal("listo", "El usuario fue MODIFICADO", "success");
                 } else {
                     swal("lo sentimos", responsejson.mensaje, "error");
                 }

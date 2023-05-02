@@ -104,6 +104,7 @@ namespace SistemaVentas.AppWeb.Controllers
         public IActionResult MostrarPDFVenta(string numeroVenta)
         {
             string urlPlantillaVista = $"{this.Request.Scheme}://{this.Request.Host}/Plantilla/PDFVenta?numeroVenta={numeroVenta}";
+            //string urlPlantillaVista = $"{this.Request.Scheme}://eatv21-001-site1.ftempurl.com/Plantilla/PDFVenta?numeroVenta={numeroVenta}";
 
             var pdf = new HtmlToPdfDocument()
             {

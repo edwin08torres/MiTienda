@@ -26,6 +26,7 @@ namespace SistemaVentas.AppWeb.Controllers
         {
             ViewData["Correo"] = correo;
             ViewData["Clave"] = clave;
+            //ViewData["Url"] = $"{this.Request.Scheme}://eatv21-001-site1.ftempurl.com/";
             ViewData["Url"] = $"{this.Request.Scheme}://{this.Request.Host}";
 
             return View();

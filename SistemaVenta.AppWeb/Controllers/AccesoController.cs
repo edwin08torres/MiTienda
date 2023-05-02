@@ -80,7 +80,9 @@ namespace SistemaVentas.AppWeb.Controllers
         {
             try
             {
+
                 string urlPlantillaCorreo = $"{this.Request.Scheme}://{this.Request.Host}/Plantilla/RestablecerClave?clave=[clave]";
+                //string urlPlantillaCorreo = $"{this.Request.Scheme}://eatv21-001-site1.ftempurl.com/Plantilla/RestablecerClave?clave=[clave]";
 
                 bool resultado = await _usuarioService.RestablecerClave(modelo.Correo, urlPlantillaCorreo);
             

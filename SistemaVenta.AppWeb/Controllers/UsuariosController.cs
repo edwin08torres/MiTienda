@@ -84,8 +84,9 @@ namespace SistemaVentas.AppWeb.Controllers
                     nombreFoto = string.Concat(nombre_en_codigo, extension);
                     fotoStream = foto.OpenReadStream();
                 }
-                                                                            //.Host para local, acá debera ir el host del sitio alojado
+                //.Host para local, acá debera ir el host del sitio alojado
                 string urlPlantillaCorreo = $"{this.Request.Scheme}://{this.Request.Host}/Plantilla/EnviarClave?correo=[correo]&clave=[clave]";
+                //string urlPlantillaCorreo = $"{this.Request.Scheme}://eatv21-001-site1.ftempurl.com/Plantilla/EnviarClave?correo=[correo]&clave=[clave]";
 
                 Usuario usuario_creado = await _usuarioServicio.Crear(_mapper.Map<Usuario>(vmUsuario),fotoStream,nombreFoto,urlPlantillaCorreo);
 
