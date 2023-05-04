@@ -12,7 +12,7 @@ using SistemaVentas.DAL.Implementacion;
 using SistemaVentas.DAL.Interfaces;
 using SistemaVentas.BLL.Interfaces;
 using SistemaVentas.BLL.Implementacion;
-
+using SistemaVentas.Entity;
 
 namespace SistemaVentas.IOC
 {
@@ -20,7 +20,7 @@ namespace SistemaVentas.IOC
     {
         public static void InyectarDependencia(this IServiceCollection services, IConfiguration configuration)
         {
-            services.AddDbContext<DbventaContext>(options =>
+            services.AddDbContext<DbA985c6DbventaContext>(options =>
             {
                 options.UseSqlServer(configuration.GetConnectionString("CadenaSQL"));
             });

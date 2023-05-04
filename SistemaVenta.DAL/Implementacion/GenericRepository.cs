@@ -14,9 +14,9 @@ namespace SistemaVentas.DAL.Implementacion
     public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEntity : class
     {
 
-        private readonly DbventaContext _dbContext;
+        private readonly DbA985c6DbventaContext _dbContext;
 
-        public GenericRepository(DbventaContext dbContext)
+        public GenericRepository(DbA985c6DbventaContext dbContext)
         {
             _dbContext = dbContext;
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s7pv/oCHtaEyiXyL7c3LumneVzCpq6zwxqsf6SZaNe9OM1aQZ5b3hEm1vJ3av58X0ezpY7rIshupcxd4VIoO/w==",
+  "dgSpecHash": "ujKNfC5o1Sjehl+TMHf31ZkjpH1NxGrCAmInRsyy70SYWAq3KIN4HL48WnCfxdZWu90VnE23i/BEQ/RBCVqXVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\Proy\\ExamenVenta-main\\SistemaVentas.IOC\\SistemaVentas.IOC.csproj",
+  "projectFilePath": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\ProyectoFinal\\SistemaVentas.IOC\\SistemaVentas.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\at289\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\at289\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

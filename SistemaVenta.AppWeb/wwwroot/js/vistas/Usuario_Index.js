@@ -140,7 +140,7 @@ $("#btnGuardar").click(async function () {
             })
             .then(responsejson => {
                 if (responsejson.estado) {
-                    tablaData.row.add(responseJson.objeto).draw(false);
+                    tablaData.row.add(responsejson.objeto).draw(false);
                     $("#modalData").modal("hide");
                     swal("listo", "El usuario fue CREADO", "success");
                 } else {
@@ -151,7 +151,8 @@ $("#btnGuardar").click(async function () {
     } else {
         fetch("/Usuarios/editar", {
             method: "PUT",
-            body: formData
+            body: formData,
+            cache: false,
         })
             .then(response => {
                 $("#modaldata").find("div.modal-content").LoadingOverlay("hide");
@@ -160,7 +161,7 @@ $("#btnGuardar").click(async function () {
             .then(responsejson => {
                 if (responsejson.estado) {
                     tablaData.row(filaselecionada).data(responsejson.objeto).draw(false);
-                    filaselecionada = null;
+                    filaSelecionada = null;
                     $("#modaldata").modal("hide");
                     swal("listo", "El usuario fue MODIFICADO", "success");
                 } else {

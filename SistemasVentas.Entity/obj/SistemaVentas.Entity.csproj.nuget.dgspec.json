@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\Proy\\ExamenVenta-main\\SistemasVentas.Entity\\SistemaVentas.Entity.csproj": {}
+    "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\ProyectoFinal\\SistemasVentas.Entity\\SistemaVentas.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\Proy\\ExamenVenta-main\\SistemasVentas.Entity\\SistemaVentas.Entity.csproj": {
+    "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\ProyectoFinal\\SistemasVentas.Entity\\SistemaVentas.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\Proy\\ExamenVenta-main\\SistemasVentas.Entity\\SistemaVentas.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\ProyectoFinal\\SistemasVentas.Entity\\SistemaVentas.Entity.csproj",
         "projectName": "SistemaVentas.Entity",
-        "projectPath": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\Proy\\ExamenVenta-main\\SistemasVentas.Entity\\SistemaVentas.Entity.csproj",
+        "projectPath": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\ProyectoFinal\\SistemasVentas.Entity\\SistemaVentas.Entity.csproj",
         "packagesPath": "C:\\Users\\at289\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\Proy\\ExamenVenta-main\\SistemasVentas.Entity\\obj\\",
+        "outputPath": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\ProyectoFinal\\SistemasVentas.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",

@@ -138,7 +138,7 @@ $("#tbventa tbody").on("click", ".btn-info", function () {
 
         $tbProductos.append(
             $("<tr>").append(
-                $("<td>").text(item.descricionProducto),
+                $("<td>").text(item.descripcionProducto),
                 $("<td>").text(item.cantidad),
                 $("<td>").text(item.precio),
                 $("<td>").text(item.total),

@@ -25,7 +25,15 @@ public partial class Venta
 
     public DateTime? FechaRegistro { get; set; }
 
+    public int? IdCliente { get; set; }
+
+    public decimal ImporteRecibido { get; set; }
+
+    public decimal ImporteCambio { get; set; }
+
     public virtual ICollection<DetalleVenta> DetalleVenta { get; } = new List<DetalleVenta>();
+
+    public virtual Cliente? IdClienteNavigation { get; set; }
 
     public virtual TipoDocumentoVenta? IdTipoDocumentoVentaNavigation { get; set; }
 

@@ -7086,11 +7086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\Proy\\ExamenVenta-main\\SistemaVentas.BLL\\SistemaVentas.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\ProyectoFinal\\SistemaVentas.BLL\\SistemaVentas.BLL.csproj",
       "projectName": "SistemaVentas.BLL",
-      "projectPath": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\Proy\\ExamenVenta-main\\SistemaVentas.BLL\\SistemaVentas.BLL.csproj",
+      "projectPath": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\ProyectoFinal\\SistemaVentas.BLL\\SistemaVentas.BLL.csproj",
       "packagesPath": "C:\\Users\\at289\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\Proy\\ExamenVenta-main\\SistemaVentas.BLL\\obj\\",
+      "outputPath": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\ProyectoFinal\\SistemaVentas.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
@@ -7117,11 +7117,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\Proy\\ExamenVenta-main\\SistemasVentas.Entity\\SistemaVentas.Entity.csproj": {
-              "projectPath": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\Proy\\ExamenVenta-main\\SistemasVentas.Entity\\SistemaVentas.Entity.csproj"
+            "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\ProyectoFinal\\SistemasVentas.Entity\\SistemaVentas.Entity.csproj": {
+              "projectPath": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\ProyectoFinal\\SistemasVentas.Entity\\SistemaVentas.Entity.csproj"
             },
-            "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\Proy\\ExamenVenta-main\\SistemaVenta.DAL\\SistemaVentas.DAL.csproj": {
-              "projectPath": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\Proy\\ExamenVenta-main\\SistemaVenta.DAL\\SistemaVentas.DAL.csproj"
+            "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\ProyectoFinal\\SistemaVenta.DAL\\SistemaVentas.DAL.csproj": {
+              "projectPath": "C:\\Users\\at289\\Desktop\\UNI\\Diseño Sistemas\\ProyectoFinal\\SistemaVenta.DAL\\SistemaVentas.DAL.csproj"
             }
           }
         }
